@@ -1,0 +1,22 @@
+{
+  "bookmarks": [
+    {
+      "id": "1",
+      "title": "React Documentation",
+      "url": "https://reactjs.org",
+      "category": "development"
+    },
+    {
+      "id": "2",
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org",
+      "category": "reference"
+    },
+    {
+      "id": "11c2",
+      "title": "test",
+      "url": "http://localhost:5173/",
+      "category": "output"
+    }
+  ]
+}
