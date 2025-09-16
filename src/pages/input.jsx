@@ -41,14 +41,7 @@ function Input() {
         
     }
    }
-    function edit(){
-        alert("Edit function not implemented yet");
-    }
-
-    function del(){
-            alert("Delete function not implemented yet");
-
-    }
+   
     
   return (
     <div>
